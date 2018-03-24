@@ -1,4 +1,4 @@
-/*@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@charset "UTF-8";*/
+@charset "UTF-8";
 
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -16751,5 +16751,13 @@ body {
 
 .footer .container p a {
   color: inherit;
+}
+
+/* User register page */
+
+.register-page img.captcha {
+  margin-bottom: 0px;
+  margin-top: 10px;
+  cursor: pointer;
 }
 
